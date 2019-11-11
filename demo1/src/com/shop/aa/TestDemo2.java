@@ -6,6 +6,9 @@ package com.shop.aa;
  **/
 public class TestDemo2 {
 
+    /**
+     * 这是TestDemo2的add方法
+     */
     public void add(){
         System.out.println("又加了一个方法");
     }
