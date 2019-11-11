@@ -14,4 +14,11 @@ public class TestDemo1 {
         System.out.println("public void testaaa.......");
         System.out.println("李四来啦........");
     }
+
+    /**
+     * 第二个分支出来啦......
+     */
+    public void select(){
+        System.out.println("第二个分支出来啦");
+    }
 }
